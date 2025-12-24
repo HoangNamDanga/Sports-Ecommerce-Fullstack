@@ -17,7 +17,6 @@ A comprehensive full-stack solution for sports enthusiasts, combining a high-tra
 To understand the system's data flow, please refer to our schema design:
 
 ![Database Schema](./Database-schema.png) 
-*(Note: Please ensure the image file is uploaded to the root folder)*
 
 ## 📂 Project Structure
 * `ClientApp24hNews`: Angular Frontend source code.
