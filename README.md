@@ -16,7 +16,7 @@ A comprehensive full-stack solution for sports enthusiasts, combining a high-tra
 ## 📊 Database Architecture
 To understand the system's data flow, please refer to our schema design:
 
-![Database Schema](./database-schema.png) 
+![Database Schema](./Database-schema.png) 
 *(Note: Please ensure the image file is uploaded to the root folder)*
 
 ## 📂 Project Structure
