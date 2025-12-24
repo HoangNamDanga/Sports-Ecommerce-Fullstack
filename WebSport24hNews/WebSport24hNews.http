@@ -1,0 +1,6 @@
+@WebSport24hNews_HostAddress = http://localhost:5149
+
+GET {{WebSport24hNews_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
